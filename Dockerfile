@@ -1,4 +1,4 @@
-ARG BASEIMAGE=alpine:3.14.2
+ARG BASEIMAGE=alpine:3.14
 FROM $BASEIMAGE as base
 LABEL maintainer="Denys Zhdanov <denis.zhdanov@gmail.com>"
 
